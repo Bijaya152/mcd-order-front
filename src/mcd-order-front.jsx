@@ -523,7 +523,7 @@ export default function McdOrderFront() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.title}>BIJAYAハンバーガー屋さん</h1>
+      <h1 style={styles.title}>SUBASHハンバーガー屋さん</h1>
       <hr style={{ marginBottom: "25px", border: "1px solid #f4c430" }} />
       
       {screen === 0 && renderSetup()}
