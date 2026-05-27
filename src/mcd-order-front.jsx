@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 // ==========================================
 // 設定フラグ
 // ==========================================
-const useMock = true; // true: モックモード(バックエンド不要), false: 本番API通信
+const useMock = false; // true: モックモード(バックエンド不要), false: 本番API通信
 const itemsPerPage = 3; // 1ページあたりのメニュー表示件数
 
 // ==========================================
